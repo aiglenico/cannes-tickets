@@ -1,0 +1,78 @@
+[
+  {
+    "date": "samedi 14",
+    "movies":[
+      {
+        "title": "Agassi",
+        "director": "Chan-Wook Park",
+        "duration": "02:25",
+        "seances": [
+          {
+            "lieu": "Debussy",
+            "time": "08:30",
+            "demande": "normal"
+          },
+          {
+            "lieu": "Lumière",
+            "time": "08:30",
+            "demande": "normal"
+          },
+          {
+            "lieu": "Lumière",
+            "time": "22:00",
+            "demande": "high"
+          }
+        ]
+      },
+      {
+        "title": "The BFG",
+        "director": "Steven Spielberg",
+        "duration": "01:55",
+        "seances": [
+          {
+            "lieu": "Lumière",
+            "time": "11:45",
+            "demande": "normal"
+          },
+          {
+            "lieu": "Lumière",
+            "time": "19:00",
+            "demande": "high"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "dimanche 15",
+    "movies":[
+      {
+        "title": "Mal de pierres",
+        "director": "Nicole Garcia",
+        "duration": "02:00",
+        "seances": [
+          {
+            "lieu": "Debussy",
+            "time": "08:30",
+            "demande": "normal"
+          },
+          {
+            "lieu": "Lumière",
+            "time": "08:30",
+            "demande": "normal"
+          },
+          {
+            "lieu": "Lumière",
+            "time": "11:30",
+            "demande": "normal"
+          },
+          {
+            "lieu": "Lumière",
+            "time": "19:30",
+            "demande": "high"
+          }
+        ]
+      }
+    ]
+  }
+]
